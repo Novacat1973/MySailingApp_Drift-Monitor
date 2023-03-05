@@ -1,0 +1,28 @@
+<resources>
+    <fitContributions>
+        <fitField id="0"
+            displayInChart="true"
+            sortOrder="0"
+            precision="2"
+            chartTitle="@Strings.hdg_data_label"
+            dataLabel="@Strings.hdg_data_label"
+            unitLabel="@Strings.hdg_data_unit"
+            fillColor="#FF0000" />
+
+        <fitField id="1"
+            displayInChart="true"
+            sortOrder = "1"
+            precision="2"
+            chartTitle="@Strings.cog_data_label"
+            dataLabel="@Strings.cog_data_label"
+            unitLabel="@Strings.cog_data_unit"
+            fillColor="#00FF00" />
+
+        <fitField id="2"
+            displayInChart="false"
+            sortOrder = "2"
+            precision="2"
+            dataLabel="@Strings.sog_data_label"
+            unitLabel="@Strings.sog_data_unit" />
+    </fitContributions>
+</resources>

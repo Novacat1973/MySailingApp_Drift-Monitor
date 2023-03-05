@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">MySailingApp</string>
+    <string id="hdg_data_label">HDG</string>
+    <string id="hdg_data_unit">°</string>
+    <string id="cog_data_label">COG</string>
+    <string id="cog_data_unit">°</string>
+    <string id="sog_data_label">SOG</string>
+    <string id="sog_data_unit">kn</string>
+</strings>
